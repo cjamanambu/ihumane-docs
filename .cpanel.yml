@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/ihumane/docs.ihumane.net/
+    - /bin/cp -R _site $DEPLOYPATH
