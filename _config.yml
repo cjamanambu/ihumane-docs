@@ -18,16 +18,25 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: IHUMANE Docs
-email: your-email@example.com
+title: IHUMANE DOCS
+email: info@connexxiontelecom.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  INTERACTIVE HUMANE is a customizable and comprehensive software that brings organization and effectiveness to the full range of Human Resource functions and responsibilities
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+
+
+aux_links: 
+  "Application":
+    - "//app.ihumane.net"
+  "Visit Site":
+    - "//ihumane.net"
+aux_link_new_tab: true
+back_to_top: true
+back_to_top_text: "Back to top"
+footer_content: "IHUMANE Documentation <br/>Copyright &copy; 2020 <a href='https://telecom.connexxiongroup.com'>Connexxion Telecom</a>."
 
 # Build settings
 theme: just-the-docs
