@@ -37,6 +37,7 @@ aux_link_new_tab: true
 back_to_top: true
 back_to_top_text: "Back to top"
 footer_content: "IHUMANE Documentation <br/>Copyright &copy; 2020 <a href='https://telecom.connexxiongroup.com'>Connexxion Telecom</a>."
+search_enabled: true
 
 # Build settings
 theme: just-the-docs
