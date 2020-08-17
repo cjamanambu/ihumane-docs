@@ -32,19 +32,19 @@
     "doc": "Installation",
     "title": "Installation",
     "content": " ",
-    "url": "/getting-started/installation.html",
-    "relUrl": "/getting-started/installation.html"
+    "url": "/installation.html",
+    "relUrl": "/installation.html"
   },"6": {
     "doc": "Requirements",
     "title": "Requirements",
     "content": " ",
-    "url": "/getting-started/requirements.html",
-    "relUrl": "/getting-started/requirements.html"
+    "url": "/requirements.html",
+    "relUrl": "/requirements.html"
   },"7": {
     "doc": "System Structure",
     "title": "System Structure",
     "content": " ",
-    "url": "/getting-started/system-structure.html",
-    "relUrl": "/getting-started/system-structure.html"
+    "url": "/system-structure.html",
+    "relUrl": "/system-structure.html"
   }
 }
