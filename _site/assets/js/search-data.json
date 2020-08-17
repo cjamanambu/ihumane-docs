@@ -1,20 +1,50 @@
 {"0": {
+    "doc": "Getting Started",
+    "title": "Getting Started With IHUMANE",
+    "content": "Any software application requires some effort to use at first. These instructions will minimize the learning curve and get you up and running with IHUMANE in no time. The first step is to review the requirements for using IHUMANE and ensure they are all available to you. Next, follow the installation steps and review the system structure to understand your way around IHUMANE. Finally, feel free to contact our support team if you have questions or problems. ",
+    "url": "/getting-started#getting-started-with-ihumane",
+    "relUrl": "/getting-started#getting-started-with-ihumane"
+  },"1": {
+    "doc": "Getting Started",
+    "title": "Getting Started",
+    "content": " ",
+    "url": "/getting-started",
+    "relUrl": "/getting-started"
+  },"2": {
     "doc": "Home",
     "title": "Interactive Humane",
-    "content": "IHUMANE is a customizable and comprehensive software that brings organization and effectiveness to the full range of Humane Resource functions and responsibilities. Application Visit Site . ",
+    "content": "IHUMANE is a customizable and comprehensive software that brings organization and effectiveness to the full range of Humane Resource functions and responsibilities. Application Demo Visit Site . ",
     "url": "/#interactive-humane",
     "relUrl": "/#interactive-humane"
-  },"1": {
+  },"3": {
     "doc": "Home",
     "title": "Introduction",
     "content": "Purpose and Scope . IHUMANE Docs contains all essential information for the user to make full use of the IHUMANE system. This documentation includes a description of the system functions and capabilities, contingencies and alternate modes of operation, and step-by-step procedures for system access and use. Organization . You can navigate seamlessly through IHUMANE Docs with the table of contents available at the beginning of each subsequent section as follows: . Table of Contents . | Introduction . | Purpose and Scope | Organization | Points of Contact | Primary Business Functions . | Staffing | Development | Compensation | Safety and Health | Employee and Labor Relations | . | . | . The search field is also available at the top of the page for finding key words throughout this documentation site. Points of Contact . For assistance, please refer to the table below for contact details. | Purpose | Contact | . | Info | info@ihumane.net | . | Sales | sales@ihumane.net | . | Support | support@ihumane.net | . Primary Business Functions . Human resources (HR) professionals conduct a wide variety of tasks within an organizational structure. A brief review of the core functions of human resource departments will be useful in framing the more common activities a human resource professional will conduct and how IHUMANE can streamline these activities. The core functions can be summarized as: . Staffing . This includes the activities of hiring new full-time or part-time employees, hiring contractors, and terminating employee contracts. Development . On-boarding new employees and providing resources for continued development is a key investment for organizations, and HR is charged with maintaining a developmental approach to existing human resources. Compensation . Salary and benefits are also within the scope of human resource management. This includes identifying appropriate compensation based on role, performance, and legal requirements. Safety and Health . Achieving best practices in various industries include careful considering of safety and health concerns for employees. Employee and Labor Relations . Defending employee rights, coordinating with unions, and mediating disagreements between the organization and its human resources is also a core HR function. ",
     "url": "/#introduction",
     "relUrl": "/#introduction"
-  },"2": {
+  },"4": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "/",
     "relUrl": "/"
+  },"5": {
+    "doc": "Installation",
+    "title": "Installation",
+    "content": " ",
+    "url": "/getting-started/installation.html",
+    "relUrl": "/getting-started/installation.html"
+  },"6": {
+    "doc": "Requirements",
+    "title": "Requirements",
+    "content": " ",
+    "url": "/getting-started/requirements.html",
+    "relUrl": "/getting-started/requirements.html"
+  },"7": {
+    "doc": "System Structure",
+    "title": "System Structure",
+    "content": " ",
+    "url": "/getting-started/system-structure.html",
+    "relUrl": "/getting-started/system-structure.html"
   }
 }

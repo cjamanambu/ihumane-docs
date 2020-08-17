@@ -15,7 +15,7 @@ permalink: /
 IHUMANE is a customizable and comprehensive software that brings organization and effectiveness to the full range of Humane Resource functions and responsibilities.
 {: .fs-6 .fw-300 }
 
-[Application](https://app.ihumane.net){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Visit Site](https://ihumane.net){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Application Demo](https://app.ihumane.net){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Visit Site](https://ihumane.net){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
