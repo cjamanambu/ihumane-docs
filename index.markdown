@@ -21,6 +21,9 @@ IHUMANE is a customizable and comprehensive software that brings organization an
 
 ## Introduction
 
+
+
+
 ### Purpose and Scope
 IHUMANE Docs contains all essential information for the user to make full use of the IHUMANE system. This documentation includes a description of the system functions and capabilities, contingencies and alternate modes of operation, and step-by-step procedures for system access and use. 
 
