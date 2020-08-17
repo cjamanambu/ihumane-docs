@@ -2,14 +2,14 @@
     "doc": "Getting Started",
     "title": "Getting Started With IHUMANE",
     "content": "Any software application requires some effort to use at first. These instructions will minimize the learning curve and get you up and running with IHUMANE in no time. The first step is to review the requirements for using IHUMANE and ensure they are all available to you. Next, follow the installation steps and review the system structure to understand your way around IHUMANE. Finally, feel free to contact our support team if you have questions or problems. ",
-    "url": "/getting-started#getting-started-with-ihumane",
-    "relUrl": "/getting-started#getting-started-with-ihumane"
+    "url": "/getting-started/#getting-started-with-ihumane",
+    "relUrl": "/getting-started/#getting-started-with-ihumane"
   },"1": {
     "doc": "Getting Started",
     "title": "Getting Started",
     "content": " ",
-    "url": "/getting-started",
-    "relUrl": "/getting-started"
+    "url": "/getting-started/",
+    "relUrl": "/getting-started/"
   },"2": {
     "doc": "Home",
     "title": "Interactive Humane",
@@ -32,19 +32,19 @@
     "doc": "Installation",
     "title": "Installation",
     "content": " ",
-    "url": "/installation.html",
-    "relUrl": "/installation.html"
+    "url": "/getting-started/installation.html",
+    "relUrl": "/getting-started/installation.html"
   },"6": {
     "doc": "Requirements",
     "title": "Requirements",
     "content": " ",
-    "url": "/requirements.html",
-    "relUrl": "/requirements.html"
+    "url": "/getting-started/requirements.html",
+    "relUrl": "/getting-started/requirements.html"
   },"7": {
     "doc": "System Structure",
     "title": "System Structure",
     "content": " ",
-    "url": "/system-structure.html",
-    "relUrl": "/system-structure.html"
+    "url": "/getting-started/system-structure.html",
+    "relUrl": "/getting-started/system-structure.html"
   }
 }
