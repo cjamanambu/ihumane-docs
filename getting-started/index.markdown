@@ -4,16 +4,14 @@
 
 layout: default
 title: Getting Started
-nav_order: 2
+nav_order: 3
 has_children: true
 permalink: /getting-started/
 ---
 
-# Getting Started With IHUMANE
+# Getting Started 
 
-Any software application requires some effort to use at first. These instructions will minimize the learning curve and get you up and running with IHUMANE in no time.
-
-The first step is to review the [requirements](requirements) for using IHUMANE and ensure they are all available to you. Next, follow the [installation](installation) steps and review the [system structure](system-structure) to understand your way around IHUMANE. Finally, feel free to contact our support team if you have questions or problems.
+The following sub-sections provide a general walkthrough of the system from initiation through exit. The logical arrangement below should enable the user to understand the sequence and flow of the system.
 
 
 

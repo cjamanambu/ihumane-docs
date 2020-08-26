@@ -1,50 +1,68 @@
 {"0": {
-    "doc": "Getting Started",
-    "title": "Getting Started With IHUMANE",
-    "content": "Any software application requires some effort to use at first. These instructions will minimize the learning curve and get you up and running with IHUMANE in no time. The first step is to review the requirements for using IHUMANE and ensure they are all available to you. Next, follow the installation steps and review the system structure to understand your way around IHUMANE. Finally, feel free to contact our support team if you have questions or problems. ",
-    "url": "/getting-started/#getting-started-with-ihumane",
-    "relUrl": "/getting-started/#getting-started-with-ihumane"
+    "doc": "Accessing the System",
+    "title": "Accessing the System",
+    "content": "Following payment &amp; subscription for IH, unique access is granted for the new company. Action: Open any recommended browser (Google Chrome, Firefox etc.) and type in the following URL https://subdomain.ihumane.net, where subdomain is the unique address where the new company’s IH instance is hosted (Figure 1) as assigned to the new subscriber. ",
+    "url": "http://localhost:4000/getting-started/accessing-system.html",
+    "relUrl": "/getting-started/accessing-system.html"
   },"1": {
+    "doc": "Cautions & Warnings",
+    "title": "Cautions &amp; Warnings",
+    "content": " ",
+    "url": "http://localhost:4000/overview/cautions-warnings.html#cautions--warnings",
+    "relUrl": "/overview/cautions-warnings.html#cautions--warnings"
+  },"2": {
+    "doc": "Cautions & Warnings",
+    "title": "Cautions & Warnings",
+    "content": " ",
+    "url": "http://localhost:4000/overview/cautions-warnings.html",
+    "relUrl": "/overview/cautions-warnings.html"
+  },"3": {
+    "doc": "Conventions",
+    "title": "Conventions",
+    "content": "This document provides screen prints and corresponding narrative to describe how to use IH. When an action is required on the part of the reader, it is indicated by a line beginning with the word “Action:” For example: Action: Click on OK. Fields or buttons to be acted upon are indicated in bold italics in the Action statement; links to be acted upon are indicated as links in underlined green text in the Action statement. Note: The term ‘user’ is used throughout this document to refer to a person who requires and/or has acquired access to IH. ",
+    "url": "http://localhost:4000/overview/conventions.html",
+    "relUrl": "/overview/conventions.html"
+  },"4": {
     "doc": "Getting Started",
     "title": "Getting Started",
-    "content": " ",
-    "url": "/getting-started/",
+    "content": "The following sub-sections provide a general walkthrough of the system from initiation through exit. The logical arrangement below should enable the user to understand the sequence and flow of the system. ",
+    "url": "http://localhost:4000/getting-started/",
     "relUrl": "/getting-started/"
-  },"2": {
+  },"5": {
+    "doc": "Overview",
+    "title": "Overview",
+    "content": "IH is a web-based application designed to enable centralized access to the full range of Human Resource (HR) data, functions, and processes in any organization. The key features and major functions performed by IH include: . | Employment &amp; personal data capture | Performance management including appraisals, trainings, resignations &amp; terminations | Company announcements &amp; directives | Payroll administration | Loan management | Biometric enrollment &amp; verification | Time tracking and attendance reporting | User management | Employee self-service | . ",
+    "url": "http://localhost:4000/overview/",
+    "relUrl": "/overview/"
+  },"6": {
     "doc": "Home",
     "title": "Interactive Humane",
     "content": "IHUMANE is a customizable and comprehensive software that brings organization and effectiveness to the full range of Humane Resource functions and responsibilities. Application Demo Visit Site . ",
-    "url": "/#interactive-humane",
+    "url": "http://localhost:4000/#interactive-humane",
     "relUrl": "/#interactive-humane"
-  },"3": {
+  },"7": {
     "doc": "Home",
     "title": "Introduction",
-    "content": "Purpose and Scope . IHUMANE Docs contains all essential information for the user to make full use of the IHUMANE system. This documentation includes a description of the system functions and capabilities, contingencies and alternate modes of operation, and step-by-step procedures for system access and use. Organization . You can navigate seamlessly through IHUMANE Docs with the table of contents available at the beginning of each subsequent section as follows: . Table of Contents . | Introduction . | Purpose and Scope | Organization | Points of Contact | Primary Business Functions . | Staffing | Development | Compensation | Safety and Health | Employee and Labor Relations | . | . | . The search field is also available at the top of the page for finding key words throughout this documentation site. Points of Contact . For assistance, please refer to the table below for contact details. | Purpose | Contact | . | Info | info@ihumane.net | . | Sales | sales@ihumane.net | . | Support | support@ihumane.net | . Primary Business Functions . Human resources (HR) professionals conduct a wide variety of tasks within an organizational structure. A brief review of the core functions of human resource departments will be useful in framing the more common activities a human resource professional will conduct and how IHUMANE can streamline these activities. The core functions can be summarized as: . Staffing . This includes the activities of hiring new full-time or part-time employees, hiring contractors, and terminating employee contracts. Development . On-boarding new employees and providing resources for continued development is a key investment for organizations, and HR is charged with maintaining a developmental approach to existing human resources. Compensation . Salary and benefits are also within the scope of human resource management. This includes identifying appropriate compensation based on role, performance, and legal requirements. Safety and Health . Achieving best practices in various industries include careful considering of safety and health concerns for employees. Employee and Labor Relations . Defending employee rights, coordinating with unions, and mediating disagreements between the organization and its human resources is also a core HR function. ",
-    "url": "/#introduction",
+    "content": "Purpose and Scope . This User Manual (UM) provides all essential information necessary for the effective use of the IHUMANE (IH) web application. This UM includes a description of the system functions and capabilities, contingencies and alternate modes of operation, and step-by-step procedures for system access and use. This publication is for the system administrators, moderators and employees of the subscribed company and specific operations and procedures will be indicated for their intended audience. This version of the UM applies to the release 1 of the alpha version of IH and to all subsequent versions, releases and modifications until otherwise indicated in the new editions. Make sure you are using the correct edition for the level of the product. Organization . The UM has the following structure: . | Introduction | Overview . | Conventions | Cautions &amp; Warnings | . | Getting Started . | Set-up Considerations | User Access Considerations | Accessing the System | System Organization &amp; Navigation | Exiting the System | . | Using the System | . ",
+    "url": "http://localhost:4000/#introduction",
     "relUrl": "/#introduction"
-  },"4": {
+  },"8": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
-    "url": "/",
+    "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"5": {
-    "doc": "Installation",
-    "title": "Installation",
-    "content": " ",
-    "url": "/getting-started/installation.html",
-    "relUrl": "/getting-started/installation.html"
-  },"6": {
-    "doc": "Requirements",
-    "title": "Requirements",
-    "content": " ",
-    "url": "/getting-started/requirements.html",
-    "relUrl": "/getting-started/requirements.html"
-  },"7": {
-    "doc": "System Structure",
-    "title": "System Structure",
-    "content": " ",
-    "url": "/getting-started/system-structure.html",
-    "relUrl": "/getting-started/system-structure.html"
+  },"9": {
+    "doc": "Set-up Considerations",
+    "title": "Set-up Considerations",
+    "content": "IH screens are designed to be viewed at a minimum screen resolution of 1366 x 768. To optimize your access to IH: . | Use any operating system of Windows 7 home basic / 8 / 8.1 / 10, 64bit. | Use minimum 4GB RAM. | Use any of Google Chrome, Mozilla Firefox, Microsoft Edge or Internet Explorer. | Disable pop-up blockers on your browser. | Enable notifications on your browser. | Enable system sounds. | . In addition to these, the biometrics module is designed for: . | Digital Persona U.are.U Fingerprint Recognition System. Compatible devices are U.are.U 4000B and U.are.U 4500. | . ",
+    "url": "http://localhost:4000/getting-started/setup-considerations.html",
+    "relUrl": "/getting-started/setup-considerations.html"
+  },"10": {
+    "doc": "User Access Considerations",
+    "title": "User Access Considerations",
+    "content": "The users of the application are the members of the subscribed company(s) involved in carrying out daily HR responsibilities, and each user is assigned a type. The table below explains the different access rights and corresponding explanation for each user type. It is important to note that the user types are not necessarily identical to a person’s title. There are three user types with access to IH: . | User Types | Access Rights | . | Administrator | Although highly configurable, the Administrator typically has responsibility for all administrative aspects of the company’s IH instance. Administrators may have all the employee management, payroll management, biometrics, user management, app configuration, payroll configuration and hr configuration user permissions. Most important of these, however, is user management and app configuration, which enable the Administrators create other Administrators or change a user’s type from Employee to either Administrator or Moderator. Further, application settings for the company’s instance of IH are managed by the Administrator. Finally, Administrators only have access to the Admin Panel (AP) of IH. | . | Moderator | The Moderator differs from the Administrator mainly in two ways. First, the Moderator typically doesn’t have all the above permissions entirely, as Moderators only perform limited administrative tasks. For instance, the Accountant may only have the payroll management and payroll configuration user permissions to manage the Payroll Process and not app configuration to modify the application’s settings. Further, the Moderator can switch between the AP and the Self-Service Portal (SSP) of IH as they also perform Employee functions within the company. The Moderator may also modify a user’s type if assigned the permission to do so. | . | Employee | The Employee doesn’t have access to the AP and as such doesn’t have user permissions. The Employee access is limited to the SSP and the range of functions it offers. A user of Employee type can be modified to the Moderator or Administrator types with configurable permissions by the Administrator or a Moderator with the user permission to do so. | . ",
+    "url": "http://localhost:4000/getting-started/user-access-considerations.html",
+    "relUrl": "/getting-started/user-access-considerations.html"
   }
 }

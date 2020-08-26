@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Installation
-parent: Getting Started
+title: Cautions & Warnings
+parent: Overview
 nav_order: 2
 ---
 
-# Installation
+# Cautions & Warnings
