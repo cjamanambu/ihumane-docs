@@ -94,7 +94,7 @@ The work area (***Figure 15***), which is located to the bottom of the task bar,
 
 The work area includes a ***hero message (1)*** that summarizes the task you are currently displaying (except for the AP dashboard task view), and the task to perform below the hero message.  
 
-The elements of the SSP and AP work areas are similar see the work area of the [AP](ap-organization-navigation).
+The elements of the SSP and AP work areas are similar see the work area of the [AP](ap-organization-navigation.html).
 
 ## Bottom Banner
 

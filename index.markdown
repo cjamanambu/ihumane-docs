@@ -35,13 +35,13 @@ The UM has the following structure:
 
 1. [Introduction](/)
 2. [Overview](overview/)
-  - [Conventions](overview/conventions)
-  - [Cautions & Warnings](overview/cautions-warnings)
+  - [Conventions](overview/conventions.html)
+  - [Cautions & Warnings](overview/cautions-warnings.html)
 3. [Getting Started](getting-started/)
-  - [Set-up Considerations](getting-started/setup-considerations)
-  - [User Access Considerations](getting-started/user-access-considerations)
-  - [Accessing the System](getting-started/accessing-system)
-  - [System Organization & Navigation](getting-started/system-organization-navigation)
+  - [Set-up Considerations](getting-started/setup-considerations.html)
+  - [User Access Considerations](getting-started/user-access-considerations.html)
+  - [Accessing the System](getting-started/accessing-system.html)
+  - [System Organization & Navigation](getting-started/system-organization-navigation.html)
   - Exiting the System
 4. Using the System
 
