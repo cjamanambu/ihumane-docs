@@ -31,7 +31,8 @@ This version of the UM applies to the release 1 of the alpha version of IH and t
 
 
 ### Organization
-The UM has the following structure:
+
+#### Table of Contents
 
 1. [Introduction](/)
 2. [Overview](overview/)
@@ -42,8 +43,33 @@ The UM has the following structure:
   - [User Access Considerations](getting-started/user-access-considerations.html)
   - [Accessing the System](getting-started/accessing-system.html)
   - [System Organization & Navigation](getting-started/system-organization-navigation.html)
-  - Exiting the System
+  - [Exiting the System](getting-started/exiting-system.html)
 4. Using the System
+
+
+
+#### List of Figures
+
+1.  [Using Microsoft Edge](getting-started/accessing-system.html#figure-1-using-microsoft-edge)
+2.  [IH Login Page](getting-started/accessing-system.html#figure-2-ih-login-page)
+3.  [IH AP After Login](getting-started/system-organization-navigation.html#figure-3-ih-ap-after-login)
+4.  [IH SSP After Login](getting-started/system-organization-navigation.html#figure-4-ih-ssp-after-login)
+5.  [IH AP Top Banner](getting-started/ap-organization-navigation.html#figure-5-ih-ap-top-banner)
+6.  [IH AP Quick Action Options](getting-started/ap-organization-navigation.html#figure-6-ih-ap-quick-action-options)
+7.  [IH AP Task Bar](getting-started/ap-organization-navigation.html#figure-7-ih-ap-task-bar)
+8.  [IH AP Side Menu](getting-started/ap-organization-navigation.html#figure-8-ih-ap-side-menu)
+9.  [IH AP Work Area](getting-started/ap-organization-navigation.html#figure-9-ih-ap-work-area)
+10. [IH AP Bottom Banner](getting-started/ap-organization-navigation.html#figure-10-ih-ap-bottom-banner)
+11. [IH SSP Top Banner](getting-started/ssp-organization-navigation.html#figure-11-ih-ssp-top-banner)
+12. [IH SSP Quick Action Options](getting-started/ssp-organization-navigation.html#figure-12-ih-ssp-quick-action-options)
+13. [IH SSP Top Menu](getting-started/ssp-organization-navigation.html#figure-13-ih-ssp-top-menu)
+14. [IH SSP Task Bar](getting-started/ssp-organization-navigation.html#figure-14-ih-ssp-task-bar)
+15. [IH SSP Work Area](getting-started/ssp-organization-navigation.html#figure-15-ih-ssp-work-area)
+16. [IH SSP Bottom Banner](getting-started/ssp-organization-navigation.html#figure-16-ih-ssp-bottom-banner)
+17. [IH Tables](getting-started/working-with-tables.html#figure-17-ih-tables)
+18. [IH Tables Row Actions](getting-started/working-with-tables.html#figure-18-ih-table-row-actions)
+
+
 
 <!-- ### Points of Contact
 For assistance, please refer to the table below for contact details. -->

@@ -24,7 +24,8 @@ The SSP of the IH Web application is a browser-based interface that is used to p
 
 The top banner (***Figure 11***), is across the top of the interface.  
 
-| ***Figure 11: IH SSP Top Banner*** |
+##### Figure 11: IH SSP Top Banner
+
 |:--:| 
 | ![top banner ssp](top-banner-ssp.PNG) |
 
@@ -35,7 +36,8 @@ The top banner has the following navigation controls:
 4.	The ***notification icon*** which indicates unread notifications relevant to the current user. Clicking the ***notification icon*** will display the unread notifications. Clicking on any unread notification will display the related task in the work area.
 5.	The ***quick action options*** for the current user. Clicking the ***quick action options*** will display the duration of the current user’s session and the following actions (***Figure 12***): ***profile***, ***change password***, ***activities***, ***switch to admin*** (for Moderators), and ***logout***.
 
-| ***Figure 12: IH SSP Quick Action Options*** |
+##### Figure 12: IH SSP Quick Action Options
+
 |:--:| 
 | ![quick actions ssp](quick-actions-ssp.PNG) |
 
@@ -43,7 +45,8 @@ The top banner has the following navigation controls:
 
 The top menu (***Figure 13***), which is immediately below the top banner, shows the tasks the user can perform.
 
-| ***Figure 13: IH SSP Top Menu*** |
+##### Figure 13: IH SSP Top Menu
+
 |:--:| 
 | ![top menu ssp](top-menu.PNG) |
 
@@ -74,7 +77,8 @@ The top menu contains the following tasks and subtasks:
 
 The task bar (***Figure 14***) is immediately below the top menu.
 
-| ***Figure 14: IH SSP Task Bar*** |
+##### Figure 14: IH SSP Task Bar
+
 |:--:| 
 | ![task bar ssp](task-bar-ssp.PNG) |
 
@@ -88,7 +92,8 @@ The task bar has the following navigation controls:
 The work area (***Figure 15***), which is located to the bottom of the task bar, is where your primary interaction with the Web application occurs. The interface has only one work area. To resize the work area, take the following action: 
 -	Resize the browser window
 
-| ***Figure 15: IH SSP Work Area*** |
+##### Figure 15: IH SSP Work Area
+
 |:--:| 
 | ![work area ssp](work-area-ssp.PNG) |
 
@@ -100,7 +105,8 @@ The elements of the SSP and AP work areas are similar see the work area of the [
 
 The bottom banner (***Figure 16***), which is located under the work area, displays copyright information for the IH Web application.
 
-| ***Figure 16: IH SSP Bottom Banner*** |
+##### Figure 16: IH SSP Bottom Banner
+
 |:--:| 
 | ![bottom banner ssp](bottom-banner-ssp.PNG) |
 

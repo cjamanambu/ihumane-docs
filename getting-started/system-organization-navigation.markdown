@@ -13,13 +13,15 @@ has_children: true
 
 For a user with the Administrator or Moderator type, the AP (***Figure 3***) appears after successful login.  
 
-| ***Figure 3: IH AP After Login*** |
+##### Figure 3: IH AP After Login
+
 |:--:| 
 | ![admin panel](admin-panel.png) | 
 
 For a user with the Employee type, the SSP (***Figure 4***) appears after successful login.  
 
-| ***Figure 4: IH SSP After Login*** |
+##### Figure 4: IH SSP After Login
+
 |:--:| 
 | ![admin panel](self-service-portal.png) | 
 

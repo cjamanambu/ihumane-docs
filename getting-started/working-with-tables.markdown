@@ -13,7 +13,8 @@ nav_order: 3
 
 Data from the IH Web application is frequently displayed in tables. Typically, the tables will have the following structure (***Figure 17***):  
 
-| ***Figure 17: IH Tables*** |
+##### Figure 17: IH Tables
+
 |:--:| 
 | ![tables](tables.PNG) |
 
@@ -34,7 +35,8 @@ Data from the IH Web application is frequently displayed in tables. Typically, t
   Clicking a row action will either display the view in an overlapping modal dialogue or as a new task or nested subtask view.
   Each row in the table represents a unique piece of data in the IH Web application for instance an employee, a salary structure or company department. Clicking on the ***row actions*** button lists the actions (***Figure 18***) that can be performed on each unique data for instance, users can view details or perform specific actions on the unique data. 
 
-| ***Figure 18: IH Table Row Actions*** |
+##### Figure 18: IH Table Row Actions
+
 |:--:| 
 | ![row actions](row-actions.PNG) |
 

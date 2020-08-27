@@ -24,7 +24,8 @@ The AP of the IH Web application is a browser-based interface that is used to pe
 
 The top banner (***Figure 5***), is across the top of the interface.
 
-| ***Figure 5: IH AP Top Banner*** |
+##### Figure 5: IH AP Top Banner
+
 |:--:| 
 | ![top banner](top-banner.PNG) |
 
@@ -33,7 +34,8 @@ The top banner has the following navigation controls:
 2.	The ***notification icon*** which indicates unread notifications relevant to the current user. Clicking the ***notification icon*** will display the unread notifications. Clicking on any unread notification will display the related task in the work area.
 3.	The ***quick action options*** for the current user. Clicking the ***quick action options*** will display the duration of the current user’s session and the following actions (***Figure 6***): ***activities***, ***settings***, ***switch to self-service*** (for Moderators), and ***logout***.
 
-| ***Figure 6: IH AP Quick Action Options*** |
+##### Figure 6: IH AP Quick Action Options
+
 |:--:| 
 | ![quick actions](quick-actions.PNG) |
 
@@ -50,7 +52,8 @@ The top banner has the following navigation controls:
 
 The task bar (***Figure 7***), is immediately below the top banner. 
 
-| ***Figure 7: IH AP Task Bar*** |
+##### Figure 7: IH AP Task Bar
+
 |:--:| 
 | ![task bar](task-bar.PNG) |
 
@@ -64,7 +67,8 @@ The task bar has the following navigation controls:
 The side menu (***Figure 8***), which is on the left side of the interface next to the top banner, task bar, work area and bottom banner, shows the tasks the user can perform.  
 **Note**: Some tasks might be defined as reserved tasks; if so, these tasks are displayed in the side menu only for the users who are permitted to access them. See [User Access Considerations](user-access-considerations.html).
 
-| ***Figure 8: IH AP Side Menu*** |
+##### Figure 8: IH AP Side Menu
+
 |:--:| 
 | ![side menu](side-menu.PNG) |
 
@@ -137,7 +141,8 @@ The work area (***Figure 9***), which is located to the right of the side menu u
 -	Retract the side menu with the side menu toggle in the top banner
 -	Resize the browser window
 
-| ***Figure 9: IH AP Work Area*** |
+##### Figure 9: IH AP Work Area
+
 |:--:| 
 | ![work area](work-area.PNG) |
 
@@ -158,6 +163,7 @@ The following buttons are common to most tasks:
 
 The bottom banner (***Figure 10***), which is located to the right of the side menu and under the work area, displays copyright information for the IH Web application. 
 
-| ***Figure 10: IH AP Bottom Banner*** |
+##### Figure 10: IH AP Bottom Banner
+
 |:--:| 
 | ![bottom banner](bottom-banner.PNG) |
