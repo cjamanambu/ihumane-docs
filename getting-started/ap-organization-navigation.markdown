@@ -62,7 +62,7 @@ The task bar has the following navigation controls:
 ## Side Menu
 
 The side menu (***Figure 8***), which is on the left side of the interface next to the top banner, task bar, work area and bottom banner, shows the tasks the user can perform.  
-**Note**: Some tasks might be defined as reserved tasks; if so, these tasks are displayed in the side menu only for the users who are permitted to access them. See [User Access Considerations](user-access-considerations).
+**Note**: Some tasks might be defined as reserved tasks; if so, these tasks are displayed in the side menu only for the users who are permitted to access them. See [User Access Considerations](user-access-considerations.html).
 
 | ***Figure 8: IH AP Side Menu*** |
 |:--:| 
