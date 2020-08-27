@@ -33,15 +33,15 @@ This version of the UM applies to the release 1 of the alpha version of IH and t
 ### Organization
 The UM has the following structure:
 
-1. [Introduction](index)
-2. Overview
-  - Conventions
-  - Cautions & Warnings
-3. Getting Started
-  - Set-up Considerations
-  - User Access Considerations
-  - Accessing the System
-  - System Organization & Navigation
+1. [Introduction](/)
+2. [Overview](overview/)
+  - [Conventions](overview/conventions)
+  - [Cautions & Warnings](overview/cautions-warnings)
+3. [Getting Started](getting-started/)
+  - [Set-up Considerations](getting-started/setup-considerations)
+  - [User Access Considerations](getting-started/user-access-considerations)
+  - [Accessing the System](getting-started/accessing-system)
+  - [System Organization & Navigation](getting-started/system-organization-navigation)
   - Exiting the System
 4. Using the System
 
