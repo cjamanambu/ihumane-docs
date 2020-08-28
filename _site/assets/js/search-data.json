@@ -5,168 +5,186 @@
     "url": "/getting-started/accessing-system.html",
     "relUrl": "/getting-started/accessing-system.html"
   },"1": {
+    "doc": "AP HR Config",
+    "title": "AP HR Config",
+    "content": "The IH AP requires configurations that apply to how data is collated in the system and displayed on all views. The AP HR Config enables users manage all the employee data related processes on the IH system. Action: Click HR Config (Figure 19) in the AP side menu. Click on any of the following subtasks to manage the corresponding configuration: . | Bank Setup | Pension Setup | HMO Setup | Department Setup | Grade Setup | Job Roles Setup | Location Setup | Appraisal Setup | Qualification Setup | Subsidiary Setup | Leave Type Setup | Training Setup | Documents | . Figure 19: IH AP HR Config . | . ",
+    "url": "/using-the-system/ap-hr-config.html",
+    "relUrl": "/using-the-system/ap-hr-config.html"
+  },"2": {
     "doc": "AP Organization & Navigation",
     "title": "AP Organization &amp; Navigation",
     "content": "The AP of the IH Web application is a browser-based interface that is used to perform administrative tasks. The interface has the following parts: . | Top Banner | Task Bar | Side Menu | Work Area | Bottom Banner | . ",
     "url": "/getting-started/ap-organization-navigation.html#ap-organization--navigation",
     "relUrl": "/getting-started/ap-organization-navigation.html#ap-organization--navigation"
-  },"2": {
+  },"3": {
     "doc": "AP Organization & Navigation",
     "title": "Top Banner",
     "content": "The top banner (Figure 5), is across the top of the interface. Figure 5: IH AP Top Banner . | . The top banner has the following navigation controls: . | The side menu toggle which retracts or expands the side menu. When the side menu is retracted, the task lists are hidden and replaced with their icons. Hovering over these icons displays the tasks and their sub tasks. Clicking on the icon or any of the listed subtasks will display the task in the work area. | The notification icon which indicates unread notifications relevant to the current user. Clicking the notification icon will display the unread notifications. Clicking on any unread notification will display the related task in the work area. | The quick action options for the current user. Clicking the quick action options will display the duration of the current user’s session and the following actions (Figure 6): activities, settings, switch to self-service (for Moderators), and logout. | . Figure 6: IH AP Quick Action Options . | . | Activities If the current user has appropriate permissions, clicking on activities displays the logs of all tasks performed on the IH system. | Settings If the current user has appropriate permissions, clicking on settings displays the application settings for the IH system. | Switch to Self-Service If the current user is a Moderator user type, clicking on switch to self-service opens the SSP for the user. | Logout Clicking on logout logs the user off the IH system by removing the user’s credentials from the Web application server. | . ",
     "url": "/getting-started/ap-organization-navigation.html#top-banner",
     "relUrl": "/getting-started/ap-organization-navigation.html#top-banner"
-  },"3": {
+  },"4": {
     "doc": "AP Organization & Navigation",
     "title": "Task Bar",
     "content": "The task bar (Figure 7), is immediately below the top banner. Figure 7: IH AP Task Bar . | . The task bar has the following navigation controls: . | The return icon. Clicking the return icon will return the user to a preceding task view. This is true for all tasks or nested subtasks not listed in the side menu. | The task name indicates the current task view being displayed in the work area. | The breadcrumb trail shows the task views through which the user has navigated to reach the current task view in the work area. The last task view listed in the breadcrumb trail is the current task view in the work area. To return to any task view shown in the breadcrumb trail, click the task view title in the breadcrumb trail; the task view is displayed in the work area. | . ",
     "url": "/getting-started/ap-organization-navigation.html#task-bar",
     "relUrl": "/getting-started/ap-organization-navigation.html#task-bar"
-  },"4": {
+  },"5": {
     "doc": "AP Organization & Navigation",
     "title": "Side Menu",
     "content": "The side menu (Figure 8), which is on the left side of the interface next to the top banner, task bar, work area and bottom banner, shows the tasks the user can perform. Note: Some tasks might be defined as reserved tasks; if so, these tasks are displayed in the side menu only for the users who are permitted to access them. See User Access Considerations. Figure 8: IH AP Side Menu . | . The side menu has the following navigation control: . | The logout button logs the user off the IH system by removing the user’s credentials from the web application server | . The default side menu contains the following tasks and subtasks: . | Home . | Dashboard: view the AP dashboard | . | Employees . | New Employee: access the form for employee creation | Manage Employees: view all employees in the IH system and perform given actions on each employee | Employee Transfers: view all employee transfers conducted on the system and initiate new transfers | Employee Leaves: view all employee leaves, perform given actions on each employee leave, and initiate new leaves | . | Performance . | Employee Appraisal: view all employee appraisals, perform given actions on each appraisal, and initiate new appraisals | Employee Terminations: view all employee terminations | Employee Resignations: view all employee requests for resignations | Employee Trainings: view all employee trainings, perform given actions on finished trainings, and initiate new trainings | . | Memos . | Announcements: view all company announcements and create new announcements | Directives: view all company directives and create new directives | . | Payroll Process . | Salary Structures: view all employee salary structure and perform given actions on employee salary structures including setting up new salary structures. | Variational Payments: view all employee variational payments, their corresponding status, and add new variational payments | Approve Payments: view all unapproved employee variational payments and select variational payments to be approved | Payroll Routine: run payroll routine for the current payroll month and year | Approve Routine: approve the payroll routine that was run in Payroll Routine | Payroll Reports: select payroll report to run from emolument report, deduction report and pay order | . | Loans . | New Loan: access the form for creating a loan for employees | Manage Loans: view all loan applications and perform given actions on each loan application | . | Biometrics . | Biometric Enrollment: enroll employee fingerprints and clock in enrolled employees | . | Attendance . | Clock In: clock in all employees not yet clocked in | Attendance Reports: select attendance report to run from today’s present employees, today’s absent employees, present employees, absent employees, clock out – today, and clock out – date | . | Users . | Manage Users: view all users, perform given actions on each user, and add new user | . | App Config | HR Config . | Bank Setup: view all banks, perform given actions on each bank, and add new bank | Pension Setup: view all pension provides, perform given actions on each pension provider, and add new pension provider | HMO Setup: view all HMOs, perform given actions on each HMO, and add new HMO | Department Setup: view all company departments, perform given actions on each department, and add new department | Grade Setup: view all grade levels, perform given actions on each grade level, and add new grade levels | Job Roles Setup: view all job roles, perform given actions on each job role, and add new job role | Location Setup: view all company locations, perform given actions on each location, and add new locations | Appraisal Setup: select assessment questions to set from self-performance assessment, quantitative assessment, qualitative assessment, and supervisor assessment | Qualification Setup: view all educational qualifications, perform given actions on each qualification, and add new qualification | Subsidiary Setup: view all company subsidiaries, perform given actions on each subsidiary, and add new subsidiary | Leave Type Setup: view all leave types, perform given actions on each leave type, and add new leave type | Training Setup: view all company trainings, perform given actions on each training, and add new training | Documents: view all company documents, perform given actions on each document, and upload new document | . | Payroll Config . | Payment Definition: view all payment definitions, perform given actions on each payment definition, and add new payment definition | Tax Rates: view all tax rates, perform given actions on each tax rate, and add new tax rate | Salary Structure: view all salary structure categories, perform given actions on each salary structure category, and add new salary structure category | Salary Allowances: view all salary allowances, perform given actions on each salary allowance, and add new salary allowances | Payroll Month/Year: set the current payroll month/year | Minimum Tax Rate: set the minimum tax rate | Pension Rate: set the pension rate | . | Logs . | View Logs: view all user activities on the system | . | . ",
     "url": "/getting-started/ap-organization-navigation.html#side-menu",
     "relUrl": "/getting-started/ap-organization-navigation.html#side-menu"
-  },"5": {
+  },"6": {
     "doc": "AP Organization & Navigation",
     "title": "Work Area",
     "content": "The work area (Figure 9), which is located to the right of the side menu under the task bar, is where your primary interaction with the Web application occurs. The interface has only one work area. To resize the work area, take one of the following actions: . | Retract the side menu with the side menu toggle in the top banner | Resize the browser window | . Figure 9: IH AP Work Area . | . The work area includes a hero message (1) that summarizes the task you are currently displaying (except for the AP dashboard task view), and the task to perform below the hero message. Task views contain common elements such as entry fields, tables, and buttons. Some views contain entry fields to filter requests for data. When you specify information for a task or complete forms to store data in the system, you must provide information for any field marked with an asterisk (*). Other views display data in tables; for more information about tables, see 3.4.3 Working with Tables. The following buttons are common to most tasks: . | The submit button submits a request to store or retrieve data. If the request is successful, a message will usually display indicating success followed by the resulting view which is displayed in the work area. Typically, if the request is not successful, the entry field in error is marked red with an invalid feedback also in red beneath it. An error message prompt might also be displayed if all entry fields are good and the request is still unsuccessful. | The back button returns the previous view to the work area. | The reset button refreshes all entry fields to the task default. | . ",
     "url": "/getting-started/ap-organization-navigation.html#work-area",
     "relUrl": "/getting-started/ap-organization-navigation.html#work-area"
-  },"6": {
+  },"7": {
     "doc": "AP Organization & Navigation",
     "title": "Bottom Banner",
     "content": "The bottom banner (Figure 10), which is located to the right of the side menu and under the work area, displays copyright information for the IH Web application. Figure 10: IH AP Bottom Banner . | . ",
     "url": "/getting-started/ap-organization-navigation.html#bottom-banner",
     "relUrl": "/getting-started/ap-organization-navigation.html#bottom-banner"
-  },"7": {
+  },"8": {
     "doc": "AP Organization & Navigation",
     "title": "AP Organization & Navigation",
     "content": " ",
     "url": "/getting-started/ap-organization-navigation.html",
     "relUrl": "/getting-started/ap-organization-navigation.html"
-  },"8": {
-    "doc": "Cautions & Warnings",
-    "title": "Cautions &amp; Warnings",
-    "content": " ",
-    "url": "/overview/cautions-warnings.html#cautions--warnings",
-    "relUrl": "/overview/cautions-warnings.html#cautions--warnings"
   },"9": {
-    "doc": "Cautions & Warnings",
-    "title": "Cautions & Warnings",
-    "content": " ",
-    "url": "/overview/cautions-warnings.html",
-    "relUrl": "/overview/cautions-warnings.html"
+    "doc": "Bank Setup",
+    "title": "Bank Setup",
+    "content": "Bank setup (Figure 20) is used to store bank information including the bank name and bank code on the IH system. Each employee is stored with their corresponding bank information which is used to manage the employee’s payroll and pay order reports. Figure 20: IH AP Bank Setup . | . To add a new bank information: Action: Click on the Add Bank (1) button to bring up the Add New Bank modal dialogue (Figure 21) . Figure 21: IH AP Add New Bank . | . Fill in the fields and click Add Bank to store the bank information in the IH system. To edit bank information: . Action: Click on Actions (see Row Actions Working with Tables) for the corresponding bank in the All Banks table to display the list of actions. Click on Edit Bank to bring up the Edit Bank modal dialogue (Figure 22). Figure 22: IH AP Edit Bank . | . Modify the desired field and click Edit Bank to update the bank information in the IH system. Note: On first use, the table in the bank setup view, like the tables in other subtask views in the AP HR Config, is empty. Any additions users make are saved and available throughout the IH AP. ",
+    "url": "/using-the-system/bank-setup.html",
+    "relUrl": "/using-the-system/bank-setup.html"
   },"10": {
-    "doc": "Conventions",
-    "title": "Conventions",
-    "content": "This document provides screen prints and corresponding narrative to describe how to use IH. When an action is required on the part of the reader, it is indicated by a line beginning with the word “Action:” For example: Action: Click on OK. Fields or buttons to be acted upon are indicated in bold italics in the Action statement; links to be acted upon are indicated as links in underlined green text in the Action statement. Note: The term ‘user’ is used throughout this document to refer to a person who requires and/or has acquired access to IH. ",
-    "url": "/overview/conventions.html",
-    "relUrl": "/overview/conventions.html"
-  },"11": {
     "doc": "Exiting the System",
     "title": "Exiting the System",
     "content": "The IH Web application is a single session system. Users will have to exit any existing sessions on the IH system to be able to start a new session. To exit the system: Action: Click the Logout button located at the bottom of the AP quick action options (Figure 6) or the SSP quick action options (Figure 12) or the AP side menu (Figure 8). ",
     "url": "/getting-started/exiting-system.html",
     "relUrl": "/getting-started/exiting-system.html"
-  },"12": {
+  },"11": {
     "doc": "Getting Started",
     "title": "Getting Started",
     "content": "The following sub-sections provide a general walkthrough of the system from initiation through exit. The logical arrangement below should enable the user to understand the sequence and flow of the system. ",
     "url": "/getting-started/",
     "relUrl": "/getting-started/"
+  },"12": {
+    "doc": "Cautions & Warnings",
+    "title": "Cautions &amp; Warnings",
+    "content": " ",
+    "url": "/overview/cautions-warnings/#cautions--warnings",
+    "relUrl": "/overview/cautions-warnings/#cautions--warnings"
   },"13": {
+    "doc": "Cautions & Warnings",
+    "title": "Cautions & Warnings",
+    "content": " ",
+    "url": "/overview/cautions-warnings/",
+    "relUrl": "/overview/cautions-warnings/"
+  },"14": {
+    "doc": "Conventions",
+    "title": "Conventions",
+    "content": "This document provides screen prints and corresponding narrative to describe how to use IH. When an action is required on the part of the reader, it is indicated by a line beginning with the word “Action:” For example: Action: Click on OK. Fields or buttons to be acted upon are indicated in bold italics in the Action statement; links to be acted upon are indicated as links in underlined green text in the Action statement. Note: The term ‘user’ is used throughout this document to refer to a person who requires and/or has acquired access to IH. ",
+    "url": "/overview/conventions/",
+    "relUrl": "/overview/conventions/"
+  },"15": {
     "doc": "Overview",
     "title": "Overview",
     "content": "IH is a web-based application designed to enable centralized access to the full range of Human Resource (HR) data, functions, and processes in any organization. The key features and major functions performed by IH include: . | Employment &amp; personal data capture | Performance management including appraisals, trainings, resignations &amp; terminations | Company announcements &amp; directives | Payroll administration | Loan management | Biometric enrollment &amp; verification | Time tracking and attendance reporting | User management | Employee self-service | . ",
     "url": "/overview/",
     "relUrl": "/overview/"
-  },"14": {
+  },"16": {
+    "doc": "Using the System",
+    "title": "Using the System",
+    "content": "The following sub-sections provide detailed, step-by-step instructions on how to use the various functions or features of the IH Web application. ",
+    "url": "/using-the-system/",
+    "relUrl": "/using-the-system/"
+  },"17": {
     "doc": "Home",
     "title": "Interactive Humane",
     "content": "IHUMANE is a customizable and comprehensive software that brings organization and effectiveness to the full range of Humane Resource functions and responsibilities. Application Demo Visit Site . ",
     "url": "/#interactive-humane",
     "relUrl": "/#interactive-humane"
-  },"15": {
+  },"18": {
     "doc": "Home",
     "title": "Introduction",
     "content": "Purpose and Scope . This User Manual (UM) provides all essential information necessary for the effective use of the IHUMANE (IH) web application. This UM includes a description of the system functions and capabilities, contingencies and alternate modes of operation, and step-by-step procedures for system access and use. This publication is for the system administrators, moderators and employees of the subscribed company and specific operations and procedures will be indicated for their intended audience. This version of the UM applies to the release 1 of the alpha version of IH and to all subsequent versions, releases and modifications until otherwise indicated in the new editions. Make sure you are using the correct edition for the level of the product. Organization . Table of Contents . | Introduction | Overview . | Conventions | Cautions &amp; Warnings | . | Getting Started . | Set-up Considerations | User Access Considerations | Accessing the System | System Organization &amp; Navigation | Exiting the System | . | Using the System | . List of Figures . | Using Microsoft Edge | IH Login Page | IH AP After Login | IH SSP After Login | IH AP Top Banner | IH AP Quick Action Options | IH AP Task Bar | IH AP Side Menu | IH AP Work Area | IH AP Bottom Banner | IH SSP Top Banner | IH SSP Quick Action Options | IH SSP Top Menu | IH SSP Task Bar | IH SSP Work Area | IH SSP Bottom Banner | IH Tables | IH Tables Row Actions | . ",
     "url": "/#introduction",
     "relUrl": "/#introduction"
-  },"16": {
+  },"19": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "/",
     "relUrl": "/"
-  },"17": {
+  },"20": {
     "doc": "Set-up Considerations",
     "title": "Set-up Considerations",
     "content": "IH screens are designed to be viewed at a minimum screen resolution of 1366 x 768. To optimize your access to IH: . | Use any operating system of Windows 7 home basic / 8 / 8.1 / 10, 64bit. | Use minimum 4GB RAM. | Use any of Google Chrome, Mozilla Firefox, Microsoft Edge or Internet Explorer. | Disable pop-up blockers on your browser. | Enable notifications on your browser. | Enable system sounds. | . In addition to these, the biometrics module is designed for: . | Digital Persona U.are.U Fingerprint Recognition System. Compatible devices are U.are.U 4000B and U.are.U 4500. | . ",
     "url": "/getting-started/setup-considerations.html",
     "relUrl": "/getting-started/setup-considerations.html"
-  },"18": {
+  },"21": {
     "doc": "SSP Organization & Navigation",
     "title": "SSP Organization &amp; Navigation",
     "content": "The SSP of the IH Web application is a browser-based interface that is used to perform employee tasks. The interface has the following parts: . | Top Banner | Top Menu | Task Bar | Work Area | Bottom Banner | . ",
     "url": "/getting-started/ssp-organization-navigation.html#ssp-organization--navigation",
     "relUrl": "/getting-started/ssp-organization-navigation.html#ssp-organization--navigation"
-  },"19": {
+  },"22": {
     "doc": "SSP Organization & Navigation",
     "title": "Top Banner",
     "content": "The top banner (Figure 11), is across the top of the interface. Figure 11: IH SSP Top Banner . | . The top banner has the following navigation controls: . | The app indicator switches the focus of the work area to the default IH Web application. | The docs indicator switches the focus of the work area to the company documents view. | The help indicator redirects the user to the IH support center. | The notification icon which indicates unread notifications relevant to the current user. Clicking the notification icon will display the unread notifications. Clicking on any unread notification will display the related task in the work area. | The quick action options for the current user. Clicking the quick action options will display the duration of the current user’s session and the following actions (Figure 12): profile, change password, activities, switch to admin (for Moderators), and logout. | . Figure 12: IH SSP Quick Action Options . | . ",
     "url": "/getting-started/ssp-organization-navigation.html#top-banner",
     "relUrl": "/getting-started/ssp-organization-navigation.html#top-banner"
-  },"20": {
+  },"23": {
     "doc": "SSP Organization & Navigation",
     "title": "Top Menu",
     "content": "The top menu (Figure 13), which is immediately below the top banner, shows the tasks the user can perform. Figure 13: IH SSP Top Menu . | . The top menu contains the following tasks and subtasks: . | Home . | Dashboard: view the SSP dashboard | My Information: view personal information of the current user | My Activities: view current user’s activities on the system | . | Leaves . | My Leaves: view all leave applications from current user and initiate new leave | New Leave: access form to apply for leave | . | Payroll . | Pay Slip: access form to request pay slip for current user | My Loans: view all loan applications for the current user, perform given actions on each loan, and apply for new loan | New Loan: access form to apply for loan | . | Performance . | My Appraisals: view all appraisals for current user to complete as employee and perform given actions on each appraisal | Appraise Employee: view all appraisals for current user to complete as supervisor and perform given actions on each appraisal | My Trainings: view all trainings assigned to current user and perform given actions on each training | Resign: access form to apply for resignation | . | Communications . | My Queries: view all queries for current user and perform given actions on each query | Announcements: view all company announcements | Directives: view all company directives for the current user | Chat: access chat engagement platform | . | . ",
     "url": "/getting-started/ssp-organization-navigation.html#top-menu",
     "relUrl": "/getting-started/ssp-organization-navigation.html#top-menu"
-  },"21": {
+  },"24": {
     "doc": "SSP Organization & Navigation",
     "title": "Task Bar",
     "content": "The task bar (Figure 14) is immediately below the top menu. Figure 14: IH SSP Task Bar . | . The task bar has the following navigation controls: . | The return icon. Clicking the return icon will return the user to a preceding task view. This is true for all tasks or nested subtasks not listed in the top menu. | The task name indicates the current task view being displayed in the work area. | The breadcrumb trail shows the task views through which the user has navigated to reach the current task view in the work area. The last task view listed in the breadcrumb trail is the current task view in the work area. To return to any task view shown in the breadcrumb trail, click the task view title in the breadcrumb trail; the task view is displayed in the work area. | . ",
     "url": "/getting-started/ssp-organization-navigation.html#task-bar",
     "relUrl": "/getting-started/ssp-organization-navigation.html#task-bar"
-  },"22": {
+  },"25": {
     "doc": "SSP Organization & Navigation",
     "title": "Work Area",
     "content": "The work area (Figure 15), which is located to the bottom of the task bar, is where your primary interaction with the Web application occurs. The interface has only one work area. To resize the work area, take the following action: . | Resize the browser window | . Figure 15: IH SSP Work Area . | . The work area includes a hero message (1) that summarizes the task you are currently displaying (except for the AP dashboard task view), and the task to perform below the hero message. The elements of the SSP and AP work areas are similar see the work area of the AP Organization &amp; Navigation. ",
     "url": "/getting-started/ssp-organization-navigation.html#work-area",
     "relUrl": "/getting-started/ssp-organization-navigation.html#work-area"
-  },"23": {
+  },"26": {
     "doc": "SSP Organization & Navigation",
     "title": "Bottom Banner",
     "content": "The bottom banner (Figure 16), which is located under the work area, displays copyright information for the IH Web application. Figure 16: IH SSP Bottom Banner . | . ",
     "url": "/getting-started/ssp-organization-navigation.html#bottom-banner",
     "relUrl": "/getting-started/ssp-organization-navigation.html#bottom-banner"
-  },"24": {
+  },"27": {
     "doc": "SSP Organization & Navigation",
     "title": "SSP Organization & Navigation",
     "content": " ",
     "url": "/getting-started/ssp-organization-navigation.html",
     "relUrl": "/getting-started/ssp-organization-navigation.html"
-  },"25": {
+  },"28": {
     "doc": "System Organization & Navigation",
     "title": "System Organization &amp; Navigation",
     "content": "For a user with the Administrator or Moderator type, the AP (Figure 3) appears after successful login. Figure 3: IH AP After Login . | . For a user with the Employee type, the SSP (Figure 4) appears after successful login. Figure 4: IH SSP After Login . | . The side menu, which is on the left side (Figure 3), and the top menu, which is underneath the banner at the top (Figure 4), list the tasks you can perform using the AP and the SSP of the IH Web application respectively. When you click a task (or a subtask under it) in the side or top menu, the task is displayed either in the work area, which is on the right side (AP) or the center (SSP), or in a new browser window (rarely). ",
     "url": "/getting-started/system-organization-navigation.html#system-organization--navigation",
     "relUrl": "/getting-started/system-organization-navigation.html#system-organization--navigation"
-  },"26": {
+  },"29": {
     "doc": "System Organization & Navigation",
     "title": "System Organization & Navigation",
     "content": " ",
     "url": "/getting-started/system-organization-navigation.html",
     "relUrl": "/getting-started/system-organization-navigation.html"
-  },"27": {
+  },"30": {
     "doc": "User Access Considerations",
     "title": "User Access Considerations",
     "content": "The users of the application are the members of the subscribed company(s) involved in carrying out daily HR responsibilities, and each user is assigned a type. The table below explains the different access rights and corresponding explanation for each user type. It is important to note that the user types are not necessarily identical to a person’s title. There are three user types with access to IH: . | User Types | Access Rights | . | Administrator | Although highly configurable, the Administrator typically has responsibility for all administrative aspects of the company’s IH instance. Administrators may have all the employee management, payroll management, biometrics, user management, app configuration, payroll configuration and hr configuration user permissions. Most important of these, however, is user management and app configuration, which enable the Administrators create other Administrators or change a user’s type from Employee to either Administrator or Moderator. Further, application settings for the company’s instance of IH are managed by the Administrator. Finally, Administrators only have access to the Admin Panel (AP) of IH. | . | Moderator | The Moderator differs from the Administrator mainly in two ways. First, the Moderator typically doesn’t have all the above permissions entirely, as Moderators only perform limited administrative tasks. For instance, the Accountant may only have the payroll management and payroll configuration user permissions to manage the Payroll Process and not app configuration to modify the application’s settings. Further, the Moderator can switch between the AP and the Self-Service Portal (SSP) of IH as they also perform Employee functions within the company. The Moderator may also modify a user’s type if assigned the permission to do so. | . | Employee | The Employee doesn’t have access to the AP and as such doesn’t have user permissions. The Employee access is limited to the SSP and the range of functions it offers. A user of Employee type can be modified to the Moderator or Administrator types with configurable permissions by the Administrator or a Moderator with the user permission to do so. | . ",
     "url": "/getting-started/user-access-considerations.html",
     "relUrl": "/getting-started/user-access-considerations.html"
-  },"28": {
+  },"31": {
     "doc": "Working with Tables",
     "title": "Working with Tables",
     "content": "Data from the IH Web application is frequently displayed in tables. Typically, the tables will have the following structure (Figure 17): . Figure 17: IH Tables . | . | Table Length In IH Web application, the table length option enables the user to determine the maximum number of rows of data to be displayed on each page of the table. By default, the minimum option is 10 but the table length options go up to a maximum of 100 rows of data. | Export Options Usually, tables in the IH Web application come with export options which enable the user to export the rows of data displaying on the current page of the table in different ways. The copy button copies the rows of data to the computer’s clipboard to be pasted elsewhere, the excel button exports the rows of data as a Microsoft Excel worksheet, the pdf button exports the rows of data as a PDF document, and the print button prints the rows of data. Note: The export options export only the rows of data that are displayed on the current page of the table, that is, after filtering, sorting or adjusting the table length. Further, exported data always excludes the Actions column. | Filter Input Field Users can filter the data in a table by typing key words into the input field to search the rows of data for matches with the key words. Clearing the input field resets the table to its default state. Filtering the table decreases the number of rows that are displayed and makes it easier for users to focus on specific data. | Sort Option Users can alter the ordering characteristics of the table based on a column in the table. By clicking the sort option in the column header, you can toggle between ascending and descending sorts for that column. When the sort option indicator points up, the column is sorted in ascending order. When the sort option indicator points down, the column is sorted in descending order. | Row Actions Clicking a row action will either display the view in an overlapping modal dialogue or as a new task or nested subtask view. Each row in the table represents a unique piece of data in the IH Web application for instance an employee, a salary structure or company department. Clicking on the row actions button lists the actions (Figure 18) that can be performed on each unique data for instance, users can view details or perform specific actions on the unique data. | Table Information The table information at the bottom of the table displays information about the table such as the number of records (rows of data) matching the filter criteria or the number of rows displayed on the current page, and the total number of rows in the whole table. | Paginator The paginator navigates between discrete pages in the table based on the maximum length of the page and the total number of rows in the table. For instance, if the maximum length of the page is the default 10 and there are more than 10 rows in the table, the user can click the next button or the specific page number in the paginator to move to the next or the specific page to display the remaining rows respectively. | . Figure 18: IH Table Row Actions . | . ",

@@ -6,6 +6,7 @@ layout: default
 title: Cautions & Warnings
 parent: Overview
 nav_order: 2
+permalink: /overview/cautions-warnings/
 ---
 
 # Cautions & Warnings

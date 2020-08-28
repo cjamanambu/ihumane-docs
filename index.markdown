@@ -36,8 +36,8 @@ This version of the UM applies to the release 1 of the alpha version of IH and t
 
 1. [Introduction](/)
 2. [Overview](overview/)
-  - [Conventions](overview/conventions.html)
-  - [Cautions & Warnings](overview/cautions-warnings.html)
+  - [Conventions](/overview/conventions/)
+  - [Cautions & Warnings](/overview/cautions-warnings)
 3. [Getting Started](getting-started/)
   - [Set-up Considerations](getting-started/setup-considerations.html)
   - [User Access Considerations](getting-started/user-access-considerations.html)
