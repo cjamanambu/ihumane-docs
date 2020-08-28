@@ -7,6 +7,7 @@ title: SSP Organization & Navigation
 grand_parent: Getting Started
 parent: System Organization & Navigation
 nav_order: 2
+permalink: /getting-started/system-organization-navigation/ssp-organization-navigation/
 ---
 
 # SSP Organization & Navigation

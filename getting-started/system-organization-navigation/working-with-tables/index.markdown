@@ -7,6 +7,7 @@ title: Working with Tables
 grand_parent: Getting Started
 parent: System Organization & Navigation
 nav_order: 3
+permalink: /getting-started/system-organization-navigation/working-with-tables/
 ---
 
 # Working with Tables

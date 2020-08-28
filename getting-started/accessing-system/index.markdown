@@ -6,6 +6,7 @@ layout: default
 title: Accessing the System
 parent: Getting Started
 nav_order: 3
+permalink: /getting-started/accessing-system/
 ---
 
 # Accessing the System

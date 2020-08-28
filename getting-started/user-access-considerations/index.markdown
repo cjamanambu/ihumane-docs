@@ -6,6 +6,7 @@ layout: default
 title: User Access Considerations
 parent: Getting Started
 nav_order: 2
+permalink: /getting-started/user-access-considerations/
 ---
 
 # User Access Considerations

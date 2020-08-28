@@ -6,6 +6,7 @@ layout: default
 title: Exiting the System
 parent: Getting Started
 nav_order: 5
+permalink: /getting-started/exiting-system/
 ---
 
 # Exiting the System

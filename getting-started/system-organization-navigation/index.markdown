@@ -7,6 +7,7 @@ title: System Organization & Navigation
 parent: Getting Started
 nav_order: 4
 has_children: true
+permalink: /getting-started/system-organization-navigation/
 ---
 
 # System Organization & Navigation

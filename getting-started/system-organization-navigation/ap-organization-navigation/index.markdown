@@ -7,6 +7,7 @@ title: AP Organization & Navigation
 grand_parent: Getting Started
 parent: System Organization & Navigation
 nav_order: 1
+permalink: /getting-started/system-organization-navigation/ap-organization-navigation/
 ---
 
 # AP Organization & Navigation

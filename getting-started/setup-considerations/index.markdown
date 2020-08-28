@@ -6,6 +6,7 @@ layout: default
 title: Set-up Considerations
 parent: Getting Started
 nav_order: 1
+permalink: /getting-started/setup-considerations/
 ---
 
 # Set-up Considerations
@@ -20,5 +21,3 @@ To optimize your access to IH:
 
 In addition to these, the biometrics module is designed for:
 1.	Digital Persona U.are.U Fingerprint Recognition System. Compatible devices are U.are.U 4000B and U.are.U 4500.
-
-

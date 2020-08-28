@@ -7,6 +7,7 @@ title: AP HR Config
 parent: Using the System
 nav_order: 1
 has_children: true
+permalink: /using-the-system/ap-hr-config/
 ---
 
 # AP HR Config

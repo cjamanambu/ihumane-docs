@@ -7,6 +7,7 @@ title: Bank Setup
 grand_parent: Using the System
 parent: AP HR Config
 nav_order: 1
+permalink: /using-the-system/ap-hr-config/bank-setup/
 ---
 
 # Bank Setup
