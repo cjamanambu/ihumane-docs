@@ -35,14 +35,13 @@ Data from the IH Web application is frequently displayed in tables. Typically, t
   Clicking a row action will either display the view in an overlapping modal dialogue or as a new task or nested subtask view.
   Each row in the table represents a unique piece of data in the IH Web application for instance an employee, a salary structure or company department. Clicking on the ***row actions*** button lists the actions (***Figure 18***) that can be performed on each unique data for instance, users can view details or perform specific actions on the unique data. 
 
-##### Figure 18: IH Table Row Actions
-
-|:--:| 
-| ![row actions](row-actions.PNG) |
-
 6.	***Table Information***  
   The ***table information*** at the bottom of the table displays information about the table such as the number of records (rows of data) matching the filter criteria or the number of rows displayed on the current page, and the total number of rows in the whole table.
 
 7.	***Paginator***  
   The ***paginator*** navigates between discrete pages in the table based on the maximum length of the page and the total number of rows in the table. For instance, if the maximum length of the page is the default 10 and there are more than 10 rows in the table, the user can click the ***next*** button or the specific page number in the ***paginator*** to move to the next or the specific page to display the remaining rows respectively.
 
+##### Figure 18: IH Table Row Actions
+
+|:--:| 
+| ![row actions](row-actions.PNG) |
