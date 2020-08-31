@@ -26,9 +26,7 @@ The AP of the IH Web application is a browser-based interface that is used to pe
 The top banner (***Figure 5***), is across the top of the interface.
 
 ##### Figure 5: IH AP Top Banner
-
-|:--:| 
-| ![top banner](top-banner.PNG) |
+![top banner](top-banner.PNG)  
 
 The top banner has the following navigation controls:
 1.	The ***side menu toggle*** which retracts or expands the side menu. When the side menu is retracted, the task lists are hidden and replaced with their icons. Hovering over these icons displays the tasks and their sub tasks. Clicking on the icon or any of the listed subtasks will display the task in the work area.
@@ -36,9 +34,7 @@ The top banner has the following navigation controls:
 3.	The ***quick action options*** for the current user. Clicking the ***quick action options*** will display the duration of the current user’s session and the following actions (***Figure 6***): ***activities***, ***settings***, ***switch to self-service*** (for Moderators), and ***logout***.
 
 ##### Figure 6: IH AP Quick Action Options
-
-|:--:| 
-| ![quick actions](quick-actions.PNG) |
+![quick actions](quick-actions.PNG)
 
   - ***Activities***  
   If the current user has appropriate permissions, clicking on ***activities*** displays the logs of all tasks performed on the IH system.
@@ -54,9 +50,7 @@ The top banner has the following navigation controls:
 The task bar (***Figure 7***), is immediately below the top banner. 
 
 ##### Figure 7: IH AP Task Bar
-
-|:--:| 
-| ![task bar](task-bar.PNG) |
+![task bar](task-bar.PNG)
 
 The task bar has the following navigation controls:
 1.	The ***return*** icon. Clicking the ***return*** icon will return the user to a preceding task view. This is true for all tasks or nested subtasks not listed in the side menu.
@@ -69,9 +63,7 @@ The side menu (***Figure 8***), which is on the left side of the interface next 
 **Note**: Some tasks might be defined as reserved tasks; if so, these tasks are displayed in the side menu only for the users who are permitted to access them. See [User Access Considerations](user-access-considerations.html).
 
 ##### Figure 8: IH AP Side Menu
-
-|:--:| 
-| ![side menu](side-menu.PNG) |
+![side menu](side-menu.PNG)
 
 The side menu has the following navigation control:  
 1.	The ***logout*** button logs the user off the IH system by removing the user’s credentials from the web application server  
@@ -143,9 +135,7 @@ The work area (***Figure 9***), which is located to the right of the side menu u
 -	Resize the browser window
 
 ##### Figure 9: IH AP Work Area
-
-|:--:| 
-| ![work area](work-area.PNG) |
+![work area](work-area.PNG)
 
 The work area includes a ***hero message (1)*** that summarizes the task you are currently displaying (except for the AP dashboard task view), and the task to perform below the hero message.  
 
@@ -165,6 +155,4 @@ The following buttons are common to most tasks:
 The bottom banner (***Figure 10***), which is located to the right of the side menu and under the work area, displays copyright information for the IH Web application. 
 
 ##### Figure 10: IH AP Bottom Banner
-
-|:--:| 
-| ![bottom banner](bottom-banner.PNG) |
+![bottom banner](bottom-banner.PNG)

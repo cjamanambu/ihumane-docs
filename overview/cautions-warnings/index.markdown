@@ -10,3 +10,5 @@ permalink: /overview/cautions-warnings/
 ---
 
 # Cautions & Warnings
+
+This version of the UM applies to the release 1 of the alpha version of IH and to all subsequent versions, releases and modifications until otherwise indicated in the new editions. Make sure you are using the correct edition for the level of the product.

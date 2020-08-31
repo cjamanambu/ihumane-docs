@@ -31,7 +31,5 @@ The IH AP requires configurations that apply to how data is collated in the syst
 13.	***Documents*** 
 
 ##### Figure 19: IH AP HR Config
-
-|:--:| 
-| ![hr config](hr-config.PNG) | 
+![hr config](hr-config.PNG)
 

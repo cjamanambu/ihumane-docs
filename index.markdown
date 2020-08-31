@@ -27,9 +27,6 @@ This User Manual (UM) provides all essential information necessary for the effec
 
 This publication is for the system administrators, moderators and employees of the subscribed company and specific operations and procedures will be indicated for their intended audience.  
 
-This version of the UM applies to the release 1 of the alpha version of IH and to all subsequent versions, releases and modifications until otherwise indicated in the new editions. Make sure you are using the correct edition for the level of the product.
-
-
 ### Organization
 
 #### Table of Contents
@@ -73,8 +70,30 @@ This version of the UM applies to the release 1 of the alpha version of IH and t
 20. [IH AP Bank Setup](using-the-system/ap-hr-config/bank-setup/#figure-20-ih-ap-bank-setup)
 21. [IH AP Add New Bank](using-the-system/ap-hr-config/bank-setup/#figure-21-ih-ap-add-new-bank)
 22. [IH AP Edit Bank](using-the-system/ap-hr-config/bank-setup/#figure-22-ih-ap-edit-bank)
-
-
+23. [IH AP Pension Setup](using-the-system/ap-hr-config/pension-setup/#figure-23-ih-ap-pension-setup)
+24. [IH AP HMO Setup](using-the-system/ap-hr-config/hmo-setup/#figure-24-ih-ap-hmo-setup)
+25. [IH AP Department Setup](using-the-system/ap-hr-config/department-setup/#figure-25-ih-ap-department-setup)
+26. [IH AP Grade Setup](using-the-system/ap-hr-config/grade-setup/#figure-26-ih-ap-grade-setup)
+27. [IH AP Job Roles Setup](using-the-system/ap-hr-config/job-roles-setup/#figure-27-ih-ap-job-roles-setup)
+28. [IH AP Location Setup](using-the-system/ap-hr-config/location-setup/#figure-28-ih-ap-location-setup)
+29. [IH AP Appraisal Setup](using-the-system/ap-hr-config/appraisal-setup/#figure-29-ih-ap-appraisal-setup)
+30. [IH AP Self-Performance Assessment](using-the-system/ap-hr-config/appraisal-setup/#figure-30-ih-ap-self-performance-assessment)
+31. [IH AP Quantitative Assessment](using-the-system/ap-hr-config/appraisal-setup/#figure-31-ih-ap-quantitative-assessment)
+32. [IH AP Quantitative Assessment Questions](using-the-system/ap-hr-config/appraisal-setup/#figure-32-ih-ap-quantitative-assessment-questions)
+33. [IH AP Qualitative Assessment Questions](using-the-system/ap-hr-config/appraisal-setup/#figure-33-ih-ap-qualitative-assessment-questions)
+34. [IH AP Supervisor Assessment](using-the-system/ap-hr-config/appraisal-setup/#figure-34-ih-ap-supervisor-assessment)
+35. [IH AP Qualification Setup](using-the-system/ap-hr-config/qualification-setup/#figure-35-ih-ap-qualification-setup)
+36. [IH AP Subsidiary Setup](using-the-system/ap-hr-config/subsidiary-setup/#figure-36-ih-ap-subsidiary-setup)
+37. [IH AP Leave Type Setup](using-the-system/ap-hr-config/leave-type-setup/#figure-37-ih-ap-leave-type-setup)
+38. [IH AP Training Setup](using-the-system/ap-hr-config/training-setup/#figure-38-ih-ap-training-setup)
+39. [IH AP New Training](using-the-system/ap-hr-config/training-setup/#figure-39-ih-ap-new-training)
+40. [IH AP Update Training](using-the-system/ap-hr-config/training-setup/#figure-40-ih-ap-update-training)
+41. [IH AP Edit Training Materials](using-the-system/ap-hr-config/training-setup/#figure-41-ih-ap-edit-training-materials)
+42. [IH AP View Training](using-the-system/ap-hr-config/training-setup/#figure-42-ih-ap-view-training)
+43. [IH AP Training Questions](using-the-system/ap-hr-config/training-setup/#figure-43-ih-ap-training-questions)
+44. [IH AP Add New Question](using-the-system/ap-hr-config/training-setup/#figure-44-ih-ap-add-new-question)
+45. [IH AP Update Question](using-the-system/ap-hr-config/training-setup/#figure-45-ih-ap-update-question)
+46. [IH AP Documents Setup](using-the-system/ap-hr-config/documents/#figure-46-ih-ap-documents-setup)  
 
 <!-- ### Points of Contact
 For assistance, please refer to the table below for contact details. -->

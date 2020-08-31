@@ -15,9 +15,7 @@ permalink: /getting-started/system-organization-navigation/working-with-tables/
 Data from the IH Web application is frequently displayed in tables. Typically, the tables will have the following structure (***Figure 17***):  
 
 ##### Figure 17: IH Tables
-
-|:--:| 
-| ![tables](tables.PNG) |
+![tables](tables.PNG)
 
 1.	***Table Length***  
   In IH Web application, the ***table length*** option enables the user to determine the maximum number of rows of data to be displayed on each page of the table. By default, the minimum option is 10 but the ***table length*** options go up to a maximum of 100 rows of data.
@@ -43,6 +41,4 @@ Data from the IH Web application is frequently displayed in tables. Typically, t
   The ***paginator*** navigates between discrete pages in the table based on the maximum length of the page and the total number of rows in the table. For instance, if the maximum length of the page is the default 10 and there are more than 10 rows in the table, the user can click the ***next*** button or the specific page number in the ***paginator*** to move to the next or the specific page to display the remaining rows respectively.
 
 ##### Figure 18: IH Table Row Actions
-
-|:--:| 
-| ![row actions](row-actions.PNG) |
+![row actions](row-actions.PNG)
