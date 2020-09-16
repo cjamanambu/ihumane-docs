@@ -23,7 +23,7 @@ email: info@connexxiontelecom.com
 description: >- # this means to ignore newlines until "baseurl:"
   INTERACTIVE HUMANE is a customizable and comprehensive software that brings organization and effectiveness to the full range of Human Resource functions and responsibilities
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://docs.ihumane.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
